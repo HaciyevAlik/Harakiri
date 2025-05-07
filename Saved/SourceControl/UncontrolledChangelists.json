@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Harakiri/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Harakiri/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Harakiri/Content/Maps/Minimal_Default.umap",
+				"D:/Harakiri/Content/Assets/Apple/Green_Apple_tefadiqla_High_4K_AO.uasset",
+				"D:/Harakiri/Content/Assets/Apple/Green_Apple_tefadiqla_High_4K_Roughness.uasset",
+				"D:/Harakiri/Content/Assets/Apple/M_Apple.uasset",
+				"D:/Harakiri/Content/Assets/Apple/Green_Apple_tefadiqla_High.uasset",
+				"D:/Harakiri/Content/Assets/Apple/Green_Apple_tefadiqla_High_4K_BaseColor.uasset",
+				"D:/Harakiri/Content/Assets/Apple/Green_Apple_tefadiqla_High_4K_Normal.uasset",
+				"D:/Harakiri/Content/Assets/Apple/Green_Apple_tefadiqla_High_4K_Specular.uasset",
+				"D:/Harakiri/Content/Maps/openWorld_HLODLayer_Instanced.uasset",
+				"D:/Harakiri/Content/Maps/openWorld_HLODLayer_Merged.uasset",
+				"D:/Harakiri/Content/__ExternalActors__/Maps/openWorld/C/A4/SYX12GDR1WTMA06YRDZ64I.uasset",
+				"D:/Harakiri/Content/__ExternalActors__/Maps/openWorld/0/7T/AMFA9GY8K76H0PHD8B6PEE.uasset",
+				"D:/Harakiri/Content/Maps/openWorld.umap",
+				"D:/Harakiri/Content/Assets/AppleGreen/tefadiqla.uasset",
+				"D:/Harakiri/Content/Assets/try/ujbjdalva.uasset"
+			]
+		}
+	]
+}
